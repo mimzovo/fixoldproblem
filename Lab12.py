@@ -1,5 +1,5 @@
 # -------------------------------------------------
-#        Name: Mignote Tadesse, Oluwakemi Adebagbo
+#        Name: Mignote Tadesse, Michelle Chen
 #    Filename: lab12.py
 #        Date: July 25, 2019
 #
